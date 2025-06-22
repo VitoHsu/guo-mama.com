@@ -1,0 +1,31 @@
+.c-crop strong{
+	color: black;
+}
+@media screen and (min-width: 1024px) {
+	.pg-home-so__figure-1 {
+			margin-top: calc((-80 / 3000) * 100%);
+	}
+	.pg-lineup {
+		padding-bottom: 40rem;
+	}
+}
+@media screen and (min-width: 1024px) {
+	.l-footer__logo {
+			width: 11rem;
+	}
+}
+@media screen and (max-width: 1023px) {
+	.l-footer__logo {
+			width: 10rem;
+			margin: 0 auto;
+	}
+}
+.p-localnav2__list a{
+	font-size: 2rem;
+}
+@media screen and (min-width: 1024px) {
+	.pg-casa-point__list {
+			width: calc((900 / 2400) * 100%);
+			margin-top: -0.5rem;
+	}
+}
