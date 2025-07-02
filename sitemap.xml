@@ -1,107 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
+
 <url>
   <loc>https://guo-mama.com/</loc>
-  <priority>1.0</priority>
+  <lastmod>2025-06-25T09:46:45+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://guo-mama.com/contact/</loc>
-  <priority>0.8</priority>
+  <loc>https://guo-mama.com/about.html</loc>
+  <lastmod>2025-06-25T09:46:45+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://guo-mama.com/about/</loc>
-  <priority>0.8</priority>
+  <loc>https://guo-mama.com/common-area.html</loc>
+  <lastmod>2025-06-25T09:46:45+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://guo-mama.com/concept/</loc>
-  <priority>0.8</priority>
+  <loc>https://guo-mama.com/cabin.html</loc>
+  <lastmod>2025-06-25T09:46:45+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://guo-mama.com/lineup/</loc>
-  <priority>0.8</priority>
+  <loc>https://guo-mama.com/cabin-detail.html</loc>
+  <lastmod>2025-06-25T09:46:45+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://guo-mama.com/product/</loc>
-  <priority>0.8</priority>
+  <loc>http://guo-mama.com/location.html</loc>
+  <lastmod>2025-06-25T09:46:45+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://guo-mama.com/blog/</loc>
-  <priority>0.8</priority>
+  <loc>http://guo-mama.com/scenic_spot.html</loc>
+  <lastmod>2025-06-25T09:46:45+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://guo-mama.com/concept/om-solar/</loc>
-  <priority>0.8</priority>
-</url>
-<url>
-  <loc>https://guo-mama.com/concept/passive-aircon/</loc>
-  <priority>0.8</priority>
-</url>
-<url>
-  <loc>https://guo-mama.com/lineup/i-works-project/</loc>
-  <priority>0.8</priority>
-</url>
-<url>
-  <loc>https://guo-mama.com/lineup/casa-cago/</loc>
-  <priority>0.8</priority>
-</url>
-<url>
-  <loc>https://guo-mama.com/preview/</loc>
-  <priority>0.8</priority>
-</url>
-<url>
-  <loc>https://guo-mama.com/slowly-oclock/</loc>
-  <priority>0.8</priority>
-</url>
-<url>
-  <loc>https://guo-mama.com/blog/category/news/</loc>
-  <priority>0.8</priority>
-</url>
-<url>
-  <loc>https://guo-mama.com/blog/category/event/</loc>
-  <priority>0.8</priority>
-</url>
-<url>
-  <loc>https://guo-mama.com/blog/category/blog/</loc>
-  <priority>0.8</priority>
-</url>
-<url>
-  <loc>https://guo-mama.com/blog/category/voice/</loc>
-  <priority>0.8</priority>
-</url>
-<url>
-  <loc>https://guo-mama.com/blog/319/</loc>
-  <priority>0.8</priority>
-</url>
-<url>
-  <loc>https://guo-mama.com/blog/311/</loc>
-  <priority>0.8</priority>
-</url>
-<url>
-  <loc>https://guo-mama.com/product/category/i-works-project/</loc>
-  <priority>0.7</priority>
-</url>
-<url>
-  <loc>https://guo-mama.com/product/category/casa-cago/</loc>
-  <priority>0.7</priority>
-</url>
-<url>
-  <loc>https://guo-mama.com/product/category/free-design/</loc>
-  <priority>0.7</priority>
-</url>
-<url>
-  <loc>https://guo-mama.com/product/141/</loc>
-  <priority>0.7</priority>
-</url>
-<url>
-  <loc>https://guo-mama.com/product/55/</loc>
-  <priority>0.7</priority>
-</url>
-<url>
-  <loc>https://guo-mama.com/assets/pdf/spec.pdf</loc>
-  <priority>0.7</priority>
-  <lastmod>2022-08-22T11:25:55+09:00</lastmod>
-</url>
+
 
 </urlset>

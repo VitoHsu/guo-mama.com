@@ -29,3 +29,12 @@
 			margin-top: -0.5rem;
 	}
 }
+@media screen and (min-width: 1024px) {
+	.l-header__logo {
+			width: 14rem;
+			margin-bottom: 3rem;
+	}
+}
+.l-contact__cell.-mail .l-contact__cell__title::before {
+	background-image: url(../img/common/icon/line.svg);
+}
